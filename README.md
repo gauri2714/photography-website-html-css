@@ -17,8 +17,8 @@ Coming soon...
 
 ## 📁 Folder Structure
 photography-website/
-├── miniprojectindex.html
-├── miniprojectstyle.css
+├──index.html
+├── style.css
 └── images/
     ├── photo.jpg
   
