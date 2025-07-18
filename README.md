@@ -16,3 +16,17 @@ Coming soon...
 - CSS3
 
 ## 📁 Folder Structure
+photography-website/
+├── miniprojectindex.html
+├── miniprojectstyle.css
+└── images/
+    ├── photo.jpg
+  
+
+
+## 🚀 How to Use
+1. Download or clone the repository
+2. Open `index.html` in your browser
+
+## 🙋‍♀️ Created By
+Gauri – [LinkedIn](https://linkedin.com/in/gauri-madaan-248566333)  
